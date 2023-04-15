@@ -48,7 +48,7 @@ public class RestapiHotelApplicationSpringApplication implements CommandLineRunn
 		
 		Hotel hotelById = hotelService.getHotelById(1);
 		System.out.println(hotelById);
-		System.out.println("Hello... Im starting the application....");
+		System.out.println("Testing... all ok or not!");
 		
 	}
 
